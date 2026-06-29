@@ -225,23 +225,6 @@ streamlit run app/app.py
 
 ---
 
-# 📸 Application Screenshots
-
-Add screenshots inside the **images** folder.
-
-Example:
-
-```
-images/
-│
-├── home.png
-├── irrigation.png
-├── water_prediction.png
-├── yield_prediction.png
-├── dashboard.png
-└── recommendations.png
-```
-
 ---
 
 # 🔮 Future Enhancements
